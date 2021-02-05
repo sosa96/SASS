@@ -2,7 +2,7 @@
 
 Projects for the [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass) course by [Jonas Schmedtmann](https://github.com/jonasschmedtmann).
 
-## What I learned in this project
+## What I learned in these projects
 
 * Advanced CSS and SASS
 
